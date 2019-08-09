@@ -317,6 +317,9 @@
     "paragonie/random_compat": {
         "version": "v2.0.17"
     },
+    "paragonie/sodium_compat": {
+        "version": "v1.10.1"
+    },
     "payum/iso4217": {
         "version": "1.0.1"
     },
